@@ -1,4 +1,4 @@
-grobal.js
+global.js
 リソースパスと通知系、ゲーム本体のシーンが記述されています。
 
 animation.js
